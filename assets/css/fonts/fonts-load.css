@@ -1,0 +1,32 @@
+/* PT Sans */
+@font-face {
+	font-family: PTSans-Sans_Captionbold;
+	font-display: swap;
+	src: url('/assets/fonts/PT-Sans/PT-Sans_Caption-Bold.woff2');
+}
+
+/* Gilroy */
+
+@font-face {
+	font-family: Gilroy-Bold;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-bold.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Regular;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-regular.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Regular-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-regularitalic.ttf');
+}
+
+@font-face {
+	font-family: Gilroy-Bold-Italic;
+	font-display: swap;
+	src: url('/assets/fonts/Gilroy/gilroy-bolditalic.ttf');
+}
